@@ -1,13 +1,9 @@
 <h1 align="center">Hola 👋, Soy Daniel Moreno, Desarrollador Unity</h1>
 <h3 align="center">Soy un apasionado 🔥 desarrollador de videojuegos 💻 con experiencia en la planificación, diseño y producción de juegos 🎮✨.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wd2m" alt="wd2m" /></a> </p>
-
 - 👨‍💻 Todos mis proyectos están disponibles en [https://wd2m.github.io/index](https://wd2m.github.io/index)
 
-- 📫 Contactame **morenowilmar5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Contactame: **morenowilmar5@gmail.com**</h3>
 <p align="left">
 </p>
 
